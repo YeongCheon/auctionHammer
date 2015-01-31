@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+.sideMenu{
+	background:none;
+	display:block; 
+	float:left; 
+	width:190px;
+	min-height:300px;
+	border:1px solid #4b545f; 
+	margin:0px;
+}
+
+.sideMenu li{
+	margin: 20px 0;
+}
+.div_title {
+	margin: 0px auto 0 auto;
+	background-color: #4b545f;
+	color: #ffffff;
+	font-size: 14pt;
+	height: 30px;
+	text-align: left;
+	text-align:center;
+}
